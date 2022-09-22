@@ -1,2 +1,2 @@
 # Mall-Customer-Segmentation
-Notebook project on Mall Customer Segmentatio
+A machine learning model on Mall Customer Segmentation
